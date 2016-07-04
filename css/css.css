@@ -1,0 +1,75 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	}
+.inner{
+font-family:"Trebuchet MS", Tahoma;
+font-size:13px;
+color:#393939;
+text-align:justify;
+line-height:20px;
+padding-right:15px;
+text-decoration:none;
+}
+.read a{
+font-family:"Trebuchet MS", Tahoma;
+font-size:13px;
+color:#393939;
+padding-right:15px;
+font-weight:bold;
+text-decoration:none;
+}
+.read a:hover{
+color:#183881;
+}
+.heading{
+font-family:"Trebuchet MS", Tahoma;
+font-size:22px;
+color:#183881;
+text-decoration:none;
+}
+.services{
+font-family:"Trebuchet MS", Tahoma;
+font-size:14px;
+color:#183881;
+text-align:left;
+text-decoration:none;
+}
+.services a{
+font-family:"Trebuchet MS", Tahoma;
+font-size:14px;
+color:#010e32;
+text-decoration:none;
+}
+.services a:hover{
+text-decoration:underline;
+}
+.inner a{
+font-family:"Trebuchet MS", Tahoma;
+font-size:13px;
+color:#393939;
+text-align:justify;
+line-height:20px;
+text-decoration:none;
+}
+.inner a:hover{
+text-decoration:underline;
+}
+
+.mail{
+font-family:"Trebuchet MS", Tahoma;
+font-size:13px;
+color:#393939;
+text-align:left;
+}
+.mail a{
+color:#1A3783;
+text-decoration:none;
+}
+
+.mail a:hover{
+color:#1A3783;
+text-decoration:underline;
+}
